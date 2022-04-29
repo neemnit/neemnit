@@ -1,6 +1,6 @@
 # :technologist: Nitish Kumar Gupta
 ## :boy: About me :	Passionate :computer: Front End Developer 
-**wanted to learn new technologies and working on it**
+** Keep Learning Keep growing**
 ### :gear: Skills 
 * Javascript||Es5||Es6||React||Redux||Redux Thunk||Postman||Axios 
 * Ajax||LocalStorage||Api||JSON||HTML5||CSS
